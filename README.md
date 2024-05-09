@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">ML Researcher from Ukraine</h3>
+<h3 align="center">ML Researcher</h3>
 
 - 🌱 Math whiz by day, machine learning enthusiast by night! I'm diving deep into the world of AI, particularly how it can be applied to robotics and pilot systems. It's all about making machines smarter and pushing the boundaries of what's possible.
 
